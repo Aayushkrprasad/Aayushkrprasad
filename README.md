@@ -1,6 +1,4 @@
-Here's an improved version of your GitHub README with added animations and a more dynamic feel using SVGs, GIFs, and badges! 🚀  
 
----
 
 ### **🚀 Aayush Prasad | Coder and Learner**  
 
